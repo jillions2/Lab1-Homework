@@ -28,3 +28,40 @@ h3{
     
     color: #993399;;
 }*/
+
+body{
+    background-color:#517c63;
+}
+
+#button{
+    border-radius:15px;
+    padding: 10px;
+    height: 50px;
+    background-color: #4c525f;
+    color: #e7dfcf;
+    width: 130px;  
+}
+#last{
+    color:#4c525f;
+    border-radius: 15px;
+    padding: 10px;
+    height: 20px;
+    background-color:#e7dfcf ;
+    width: 500px; 
+}
+#A1{
+    background-color: #e7dfcf;
+    color: #4c525f;
+}
+#text1{
+    color: #e7dfcf;
+}
+#text3{
+    background-color: #4c525f;
+    color: #e7dfcf;
+}
+#text4{
+    background-color: #e7dfcf;
+    color: #4c525f;
+    font-size: 120%;
+}
